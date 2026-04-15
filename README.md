@@ -20,6 +20,8 @@ The aesthetic embraces digital nostalgia while maintaining a technically structu
 
 ---
 
+<img width="1898" height="905" alt="image" src="https://github.com/user-attachments/assets/056b8c47-47e3-4c84-abea-c65658f1cf08" />
+
 ## 🛠️ Tech Stack
 
 * **HTML5**
